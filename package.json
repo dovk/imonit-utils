@@ -1,18 +1,11 @@
 {
-  "name": "imonit-utils",
+  "name": "imonit-utl",
   "version": "1.0.0",
   "description": "Utilities for IMONIT",
   "main": "",
   "author": {
     "name": "Dov Keshet",
     "email": "dovk@starsoft.co.il"
-  },
-  "bugs": {
-    "url": "https://github.com/github.com/dovk/imonit-utils/issues"
-  },
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dovk/imonit-utils.git"
   }
+  "license": "ISC"
 }
