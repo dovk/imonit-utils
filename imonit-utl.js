@@ -1,4 +1,4 @@
-// IMONIT (I'm-On-It) batel dd
+// IMONIT (I'm-On-It) batel 
 //==========================================
 const fs = require('fs-extra')
 //=================================================
